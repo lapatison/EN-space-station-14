@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/ss220-space/Paradise/commit/beb8d98634cf970b45996392df377815b3762f9f",
+  "states": [
+    {
+      "name": "dead",
+      "delays": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "name": "cow",
+      "directions": 4,
+      "delays": [
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ]
+      ]
+    }
+  ]
+}

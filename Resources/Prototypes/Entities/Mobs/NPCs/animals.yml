@@ -1903,7 +1903,7 @@
     layers:
     - map: ["enum.DamageStateVisualLayers.Base"]
       state: goat
-      sprite: Mobs/Animals/goat.rsi #replace with pig textures
+      sprite: Mobs/Animals/pig.rsi
   - type: Fixtures
     fixtures:
     - shape:
@@ -1918,7 +1918,7 @@
   - type: DamageStateVisuals
     states:
       Alive:
-        Base: goat #replace with pig
+        Base: pig
       Critical:
         Base: dead
       Dead:
@@ -1931,8 +1931,8 @@
     attributes:
       gender: epicene
   - type: InteractionPopup
-    successChance: 0.2
-    interactSuccessString: petting-success-goat #replace with pig
-    interactFailureString: petting-failure-goat #replace with pig
+    successChance: 0.5
+    interactSuccessString: petting-success-pig
+    interactFailureString: petting-failure-generic
     interactSuccessSound:
-      path: /Audio/Animals/goat_bah.ogg #replace with oink
+      path: /Audio/Animals/pig_oink.ogg
