@@ -63,7 +63,7 @@ accent-words-chicken-3 = Cluck?
 accent-words-chicken-4 = Cluck cluck!
 
 # Pig
-accent-words-chicken-1 = Oink.
-accent-words-chicken-2 = Oink?
-accent-words-chicken-3 = Oink!
-accent-words-chicken-4 = Oink oink!
+accent-words-pig-1 = Oink.
+accent-words-pig-2 = Oink?
+accent-words-pig-3 = Oink!
+accent-words-pig-4 = Oink oink!
