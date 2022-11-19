@@ -379,3 +379,13 @@
     attributes:
       proper: true
       gender: female
+
+- type: entity
+  name: Alexander
+  parent: MobPig
+  id: MobAlexander
+  description: Chef's finest colleague.
+  components:
+  - type: Grammar
+    attributes:
+      gender: male
