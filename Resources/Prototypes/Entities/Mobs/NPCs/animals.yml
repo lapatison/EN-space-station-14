@@ -1902,7 +1902,7 @@
     drawdepth: Mobs
     layers:
     - map: ["enum.DamageStateVisualLayers.Base"]
-      state: goat
+      state: pig
       sprite: Mobs/Animals/pig.rsi
   - type: Fixtures
     fixtures:
